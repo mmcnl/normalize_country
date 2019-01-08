@@ -2591,16 +2591,19 @@ ZW:
 
 # added by mmcnl to support FIDE codes
 ENG:
-  alpha3: ENG
+  alpha2: 'GB-ENG'
+  alpha3: 'ENG'
   iso_name: England
   emoji: "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
 
 WLS:
+  alpha2: GB-WLS
   alpha3: WLS
   iso_name: Wales
   emoji: "🏴󠁧󠁢󠁷󠁬󠁳󠁿"
 
 SCO:
+  alpha2: GB-SCO
   alpha3: SCO
   iso_name: Scotland
   emoji: "🏴󠁧󠁢󠁳󠁣󠁴󠁿"
