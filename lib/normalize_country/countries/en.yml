@@ -2588,3 +2588,24 @@ ZW:
   official: Republic of Zimbabwe
   short: Zimbabwe
   emoji: "\U0001F1FF\U0001F1FC"
+
+# added by mmcnl to support FIDE codes
+ENG:
+  alpha3: ENG
+  iso_name: England
+  emoji: "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+
+WLS:
+  alpha3: WLS
+  iso_name: Wales
+  emoji: "🏴󠁧󠁢󠁷󠁬󠁳󠁿"
+
+SCO:
+  alpha3: SCO
+  iso_name: Scotland
+  emoji: "🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+
+MNC:
+  alpha3: MNC
+  iso_name: Monaco
+  emoji: "🇲🇨"
